@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SSN>
+<Cabecera>
+<Productor TipoPersona="1" Matricula="73950"/>                                                                                                                                                          
+<CantidadRegistros>1</CantidadRegistros>                                                                                                                                                                
+</Cabecera>
+<Detalle>
+<Registro>
+<FechaRegistro>2020-11-14</FechaRegistro>                                                                                                                                                               
+<Asegurados>
+<Asegurado TipoAsegurado="1" TipoDoc="2" NroDoc="23947283359" Nombre="SANCHEZ BRITEZ, BERN"></Asegurado>                                                                                                
+</Asegurados>
+<CPAProponente>B1653AAA</CPAProponente>                                                                                                                                                                 
+<ObsProponente>" "</ObsProponente>
+<CPACantidad>1</CPACantidad>
+<CodigosPostales>
+<CPA>B1653AAA</CPA>                                                                                                                                                                                     
+</CodigosPostales>
+<CiaID>0222</CiaID>
+<BienAsegurado>PERSONAS</BienAsegurado>                                                                                                                                                                 
+<Ramo>41</Ramo>                                                                                                                                                                                         
+<SumaAsegurada>1350000,00</SumaAsegurada>                                                                                                                                                               
+<SumaAseguradaTipo>1</SumaAseguradaTipo>                                                                                                                                                                
+<CoberturaFechaDesde>2020-09-24</CoberturaFechaDesde>                                                                                                                                                   
+<CoberturaFechaHasta>2021-09-24</CoberturaFechaHasta>                                                                                                                                                   
+<TipoOperacion>4</TipoOperacion>                                                                                                                                                                        
+<Poliza>46-10-568892</Poliza>                                                                                                                                                                           
+<Flota>0</Flota>
+<TipoContacto>1</TipoContacto>
+</Registro>
+</Detalle>
+</SSN>
